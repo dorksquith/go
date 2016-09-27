@@ -8,7 +8,6 @@
   
 ####First meeting 27-09-16 To-do list:
 
-@dorksquith @AliceSmart 
    
 - [ ] Install dependencies (type the following line into mac/linux terminal or windows cmd):
 ```
