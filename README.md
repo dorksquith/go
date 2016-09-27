@@ -10,3 +10,5 @@ conda install numpy scipy scikit-learn jupyter matplotlib
 ```
 git clone https://github.com/SussexMPhys2016/go
 ```
+   * Add an image of your choice to the repository : you'll need to either use the browser or use commands like git add push, committ
+   
