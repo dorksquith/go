@@ -12,7 +12,7 @@ First meeting 27-09-16 To-do list:
 ```
 conda install numpy scipy scikit-learn jupyter matplotlib
 ```
-Tips on using Terminal on Mac OSX / Windows : to follow shortly
+Tips on using Terminal on Mac OSX / Windows : go/terminal.md
    
 [2] Clone this repository:
 ```
