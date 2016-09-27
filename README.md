@@ -1,4 +1,3 @@
-# go
 ### MPhys2016 - basics
 
 Before our first meeting:
