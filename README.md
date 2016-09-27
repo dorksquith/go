@@ -8,5 +8,5 @@ conda install numpy scipy scikit-learn jupyter matplotlib
 ```
    * Clone this repository:
 ```
-git clone https://github.com/SussexMPhys2016
+git clone https://github.com/SussexMPhys2016/go
 ```
