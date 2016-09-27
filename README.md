@@ -1,12 +1,12 @@
 ### MPhys2016 - basics
 
-Before our first meeting:
+####Before our first meeting:
 
 - [x] Download anaconda https://www.continuum.io/downloads onto your laptop
 - [x] Get a github account : https://github.com/join
 - [x] Do the "hello world" tutorial : https://guides.github.com/activities/hello-world/
   
-First meeting 27-09-16 To-do list:
+####First meeting 27-09-16 To-do list:
    
 - [ ] Install dependencies (type the following line into mac/linux terminal or windows cmd):
 ```
