@@ -6,6 +6,8 @@
 ```
 conda install numpy scipy scikit-learn jupyter matplotlib
 ```
+   * Tips on using Terminal on Mac OSX : 
+   
    * Clone this repository:
 ```
 git clone https://github.com/SussexMPhys2016/go
