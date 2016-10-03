@@ -11,16 +11,14 @@ When protons collide at the LHC, the energy released in the collision can result
 ####Tasks:
    * Generate Monte Carlo samples for the processes H->bb and g->bb.
    * Identify kinematic variables with potential for uncovering subtle differences between the processes
-   
-#SupervisedLearning #Classification
+   * #SupervisedLearning #Classification
 
 ###PROJECT : TUNES 
 ####Can a program tell us what we have right / wrong in our simulations?
 How do various regression techniques separate a mixed sample of data and MC events?
 ####Tasks: 
     * Get familiar with rivet : https://rivet.hepforge.org/
-
-#UnsupervisesdLearning #Regression
+    * #UnsupervisesdLearning #Regression
 
 ###PROJECT : FLAVOUR
 ####Can we tag jet images?
@@ -28,16 +26,14 @@ How can particle jets be differentiated using image processing techniques?
 ####Tasks:
     * Read this: https://arxiv.org/abs/1511.05190
     * Download fastjet : http://fastjet.fr/
-    
-#SupervisedLearning #Classification
+    * #SupervisedLearning #Classification
     
 ###PROJECT : ANARCHY
 ####Can we disentangle hadronic final states with unsupervised learning?
 What is the natural way to sort the data, if not by process? What factors in the algorithm used determine the outcome? Can we "unfold" from the alg's classification to the physics? Or can we learn something about how to improve the algorithms?
 ####Tasks:
     * Explore a mixed dataset
-    
-#UnsupervisesdLearning #Regression
+    * #UnsupervisesdLearning #Regression
 
 ###PROJECT : ENHANCE
 ####How do machine learning algorithms deal with scale?
