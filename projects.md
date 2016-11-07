@@ -5,6 +5,8 @@ _under construction_
    * The LHC : https://www.youtube.com/watch?v=uo60o9Y0RnE
    * Machine Learning : https://www.coursera.org/learn/machine-learning
    * The Pythia Monte Carlo generator : http://home.thep.lu.se/~torbjorn/Pythia.html
+   * RIVET : https://rivet.hepforge.org/trac/wiki/GettingStarted
+   
 
 ###PROJECT : BEAUTY 
 ####Can a program learn to distinguish between two almost-identical fundamental physics processes?
