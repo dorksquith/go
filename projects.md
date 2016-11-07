@@ -1,11 +1,14 @@
 ##Machine Learning with LHC data
 _under construction_
 
-   * Familiarise with Pythia http://home.thep.lu.se/~torbjorn/pdfdoc/worksheet8200.pdf
+   * R : https://www.r-project.org/ 
+   * Feynman diagrams : http://www-pnp.physics.ox.ac.uk/~barra/teaching/feynman.pdf
+   * RIVET : https://rivet.hepforge.org/trac/wiki/GettingStarted
+   * Familiarise with Pythia : http://home.thep.lu.se/~torbjorn/pdfdoc/worksheet8200.pdf
    * The LHC : https://www.youtube.com/watch?v=uo60o9Y0RnE
    * Machine Learning : https://www.coursera.org/learn/machine-learning
    * The Pythia Monte Carlo generator : http://home.thep.lu.se/~torbjorn/Pythia.html
-   * RIVET : https://rivet.hepforge.org/trac/wiki/GettingStarted
+ 
    
 
 ###PROJECT : BEAUTY 
