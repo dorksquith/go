@@ -8,7 +8,7 @@ _under construction_
    * The LHC : https://www.youtube.com/watch?v=uo60o9Y0RnE
    * Machine Learning : https://www.coursera.org/learn/machine-learning
    * The Pythia Monte Carlo generator : http://home.thep.lu.se/~torbjorn/Pythia.html
- 
+   * Various cheat sheets : http://www.datasciencecentral.com/page/search?q=cheat+sheet 
    
 
 ###PROJECT : BEAUTY 
