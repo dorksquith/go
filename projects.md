@@ -1,6 +1,7 @@
 ##Machine Learning with LHC data
 _under construction_
 
+Useful references:
    * R : https://www.r-project.org/ 
    * Feynman diagrams : http://www-pnp.physics.ox.ac.uk/~barra/teaching/feynman.pdf
    * RIVET : https://rivet.hepforge.org/trac/wiki/GettingStarted
