@@ -2,6 +2,7 @@
 _under construction_
 
 Useful references:
+   * GIT : http://ohshitgit.com/
    * R : https://www.r-project.org/ 
    * Feynman diagrams : http://www-pnp.physics.ox.ac.uk/~barra/teaching/feynman.pdf
    * RIVET : https://rivet.hepforge.org/trac/wiki/GettingStarted
