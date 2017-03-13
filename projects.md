@@ -2,6 +2,7 @@
 _under construction_
 
 Useful references:
+   * Statistics (addictive) : http://students.brown.edu/seeing-theory/
    * GIT : http://ohshitgit.com/
    * R : https://www.r-project.org/ 
    * Feynman diagrams : http://www-pnp.physics.ox.ac.uk/~barra/teaching/feynman.pdf
