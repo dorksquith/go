@@ -5,11 +5,18 @@
 \documentclass[12pt,a4paper]{report}
 \usepackage[pdftex]{graphicx}
 \usepackage{url}
-\usepackage[bookmarks]{hyperref} 
 \usepackage{subfigure}
-\usepackage{xcolor}
+\usepackage[svgnames]{xcolor}
+\usepackage[bookmarks,colorlinks]{hyperref} 
+\AtBeginDocument{%
+  \hypersetup{
+    citecolor=Blue,
+    urlcolor=Blue}}
+
 
 \graphicspath{{figures/}}
+
+
 \begin{document}
 
 \input{./title.tex}
