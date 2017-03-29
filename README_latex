@@ -1,0 +1,14 @@
+# to compile the report
+cd Report
+touch report.tex
+make
+
+#to cleanup 
+make clean
+
+# after working on your report, don't forget to 
+git add <filenames>
+git commit -m "the changes you made"
+git push
+
+
